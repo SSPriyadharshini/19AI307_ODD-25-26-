@@ -27,8 +27,8 @@ To write a java program to find the index of the last occurrence of a character 
  ```
 /*
 Program to implement a Strings and Math Function using Java
-Developed by: Madhuvathani V
-RegisterNumber:  212223040107
+Developed by: Priyadharshini S.S
+RegisterNumber:  212223040156
 */
 ```
 
