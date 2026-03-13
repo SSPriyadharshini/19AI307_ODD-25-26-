@@ -30,8 +30,8 @@ To write a program to find the maximum odd number in an array.
  ```
 /*
 Program to implement a Array concept using Java
-Developed by: Madhuvathani V
-RegisterNumber:  212223040107
+Developed by: Priyadharshini S.S
+RegisterNumber:  212223040156
 */
 ```
 
